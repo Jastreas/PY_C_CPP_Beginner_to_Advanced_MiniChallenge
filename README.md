@@ -67,9 +67,9 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 
 ### **Basic Level (36-45)**
 
-1. Write a program that prints "Hello, world".
-2. Add two numbers entered by the user.
-3. Write a program that determines if a number is prime.
+1. Write a program that prints "Hello, world". ☑️
+2. Add two numbers entered by the user. ☑️
+3. Write a program that determines if a number is prime. ☑️
 4. Create an array of 10 numbers and print their values.
 5. Write a function that calculates the factorial of a number.
 6. Implement a `struct` to handle student data (name, age, GPA).
