@@ -1,0 +1,12 @@
+**Basic Level (1-10)**  
+
+1. Write a program that prints "Hello, world".
+2. Add two numbers entered by the user.
+3. Write a program that determines if a number is prime.
+4. Create an array of 10 numbers and print their values.
+5. Write a function that calculates the factorial of a number.
+6. Implement a struct to handle student data (name, age, GPA).
+7. Create a program that counts how many times a character appears in a string.
+8. Implement a function that converts Celsius to Fahrenheit.
+9. Write a program that determines if a string is a palindrome.
+10. Use fgets() to read a line from a file.
