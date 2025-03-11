@@ -74,8 +74,8 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 5. Write a function that calculates the factorial of a number. ☑️
 6. Implement a `struct` to handle student data (name, age, GPA). ☑️
 7. Create a program that counts how many times a character appears in a string. ☑️
-8. Implement a function that converts Celsius to Fahrenheit.
-9. Write a program that determines if a string is a palindrome.
+8. Implement a function that converts Celsius to Fahrenheit. ☑️
+9. Write a program that determines if a string is a palindrome. 💻
 10. Use `fgets()` to read a line from a file.
 
 ### **Intermediate Level (46-60)**
