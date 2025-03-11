@@ -39,7 +39,7 @@ int count_vowels(const char word[]){
 
 
 /**
- * @brief Main function: Description of the function.
+ * @brief Main function: Test cases for count vowels function.
  * @return int - Returns 0 on successful execution (MISRA Rule 15.5: a single exit point).
  */
 int main(void){ /* Explicit 'void' for no parameters (MISRA Rule 8.2) */
