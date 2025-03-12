@@ -65,7 +65,7 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 
 ## **C (36-70)**
 
-### **Basic Level (36-45)**
+### **Basic Level (36-45) [using misra rules for practice]**
 
 1. Write a program that prints "Hello, world". ☑️
 2. Add two numbers entered by the user. ☑️
@@ -75,8 +75,8 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 6. Implement a `struct` to handle student data (name, age, GPA). ☑️
 7. Create a program that counts how many times a character appears in a string. ☑️
 8. Implement a function that converts Celsius to Fahrenheit. ☑️
-9. Write a program that determines if a string is a palindrome. 💻
-10. Use `fgets()` to read a line from a file.
+9. Write a program that determines if a string is a palindrome. ☑️
+10. Use `fgets()` to read a line from a file. ☑️
 
 ### **Intermediate Level (46-60)**
 
