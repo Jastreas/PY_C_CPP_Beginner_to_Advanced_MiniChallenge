@@ -116,8 +116,8 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 ### **Basic Level (71-80)**
 
 1. Write a program that prints "Hello, world". ☑️
-2. Create a `Person` class with private attributes and `get/set` methods.
-3. Implement a function that reverses a string.
+2. Create a `Person` class with private attributes and `get/set` methods. ☑️
+3. Implement a function that reverses a string. ☑️
 4. Use `vector<int>` to store and display 10 numbers.
 5. Write a function that sorts a `vector<int>` using `sort()`.
 6. Create a function that determines if a number is prime.
