@@ -118,11 +118,11 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 1. Write a program that prints "Hello, world". ☑️
 2. Create a `Person` class with private attributes and `get/set` methods. ☑️
 3. Implement a function that reverses a string. ☑️
-4. Use `vector<int>` to store and display 10 numbers.
-5. Write a function that sorts a `vector<int>` using `sort()`.
-6. Create a function that determines if a number is prime.
-7. Implement a recursive function to calculate the factorial.
-8. Create a `Student` class with a constructor that takes name and age.
+4. Use `vector<int>` to store and display 10 numbers. ☑️
+5. Write a function that sorts a `vector<int>` using `sort()`. ☑️
+6. Create a function that determines if a number is prime. ☑️
+7. Implement a recursive function to calculate the factorial. ☑️
+8. Create a `Student` class with a constructor that takes name and age. ☑️
 9. Use `map<string, int>` to count word frequencies in a text.
 10. Implement operator overloading for `+` in a class.
 
