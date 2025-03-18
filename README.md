@@ -123,8 +123,8 @@ This is a small folder that contains 100 programs that I've challenge myself to 
 6. Create a function that determines if a number is prime. ☑️
 7. Implement a recursive function to calculate the factorial. ☑️
 8. Create a `Student` class with a constructor that takes name and age. ☑️
-9. Use `map<string, int>` to count word frequencies in a text.
-10. Implement operator overloading for `+` in a class.
+9. Use `map<string, int>` to count word frequencies in a text. ☑️
+10. Implement operator overloading for `+` in a class. ☑️
 
 ### **Intermediate Level (81-90)**
 
